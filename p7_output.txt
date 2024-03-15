@@ -1,0 +1,97 @@
+PS D:\23MCA36> python p7.py
+Empty tuple is created
+
+Choose an action : 
+1.Add an element to tuple : 
+2.Access an element int the tuple : 
+3.Remove an element from the tuple : 
+4.Display the current tuple
+5.Exit
+Enter you chouice (1/2/3/4/5) : 4
+Cuurent  tuple :  ()
+
+Choose an action : 
+1.Add an element to tuple : 
+2.Access an element int the tuple : 
+3.Remove an element from the tuple : 
+4.Display the current tuple
+5.Exit
+Enter you chouice (1/2/3/4/5) : 1
+Enter an elements to add : 10
+Added 10 to the tuple
+
+Choose an action : 
+1.Add an element to tuple : 
+2.Access an element int the tuple : 
+3.Remove an element from the tuple : 
+4.Display the current tuple
+5.Exit
+Enter you chouice (1/2/3/4/5) : 1
+Enter an elements to add : 20
+Added 20 to the tuple
+
+Choose an action :
+1.Add an element to tuple :
+2.Access an element int the tuple :
+3.Remove an element from the tuple :
+4.Display the current tuple
+5.Exit
+Enter you chouice (1/2/3/4/5) : 1
+Enter an elements to add : 30
+Added 30 to the tuple
+
+Choose an action :
+1.Add an element to tuple :
+2.Access an element int the tuple :
+3.Remove an element from the tuple :
+4.Display the current tuple
+5.Exit
+Enter you chouice (1/2/3/4/5) : 2
+Enter the index to access : 20
+Invalid index
+
+Choose an action :
+1.Add an element to tuple :
+2.Access an element int the tuple :
+3.Remove an element from the tuple :
+4.Display the current tuple
+5.Exit
+Enter you chouice (1/2/3/4/5) : 2
+Enter the index to access : 1
+Element at index 1 : 20
+
+Choose an action :
+1.Add an element to tuple :
+2.Access an element int the tuple :
+3.Remove an element from the tuple :
+4.Display the current tuple
+5.Exit
+Enter you chouice (1/2/3/4/5) : 4
+Cuurent  tuple :  ('10', '20', '30')
+
+Choose an action :
+1.Add an element to tuple :
+2.Access an element int the tuple :
+3.Remove an element from the tuple :
+4.Display the current tuple
+5.Exit
+Enter you chouice (1/2/3/4/5) : 3
+Enter an element to remove : 20
+Removed 20 from tuple.
+
+Choose an action :
+1.Add an element to tuple :
+2.Access an element int the tuple :
+3.Remove an element from the tuple :
+4.Display the current tuple
+5.Exit
+Enter you chouice (1/2/3/4/5) : 4
+Cuurent  tuple :  ('10', '30')
+
+Choose an action :
+1.Add an element to tuple :
+2.Access an element int the tuple :
+3.Remove an element from the tuple :
+4.Display the current tuple
+5.Exit
+Enter you chouice (1/2/3/4/5) : 5

@@ -1,0 +1,95 @@
+PS D:\23MCA36> python p6.py
+
+Choose an action
+1.Create a new list
+2.Append an element to the list
+3.Remove an element from the list
+4.Display the current list
+5.Exit
+Enter your choice(1/2/3/4/5) :1
+New empty list created.
+
+Choose an action
+1.Create a new list
+2.Append an element to the list
+3.Remove an element from the list
+4.Display the current list
+5.Exit
+Enter your choice(1/2/3/4/5) :4
+Current List []
+
+Choose an action
+1.Create a new list
+2.Append an element to the list
+3.Remove an element from the list
+4.Display the current list
+5.Exit
+Enter your choice(1/2/3/4/5) :2
+Eneter an element to append : 10
+Appended 10 to the list.
+
+Choose an action
+1.Create a new list
+2.Append an element to the list
+3.Remove an element from the list
+4.Display the current list
+5.Exit
+Enter your choice(1/2/3/4/5) :2
+Eneter an element to append : 20
+Appended 20 to the list.
+
+Choose an action
+1.Create a new list
+2.Append an element to the list
+3.Remove an element from the list
+4.Display the current list
+5.Exit
+Enter your choice(1/2/3/4/5) :2
+Eneter an element to append : 30
+Appended 30 to the list.
+
+Choose an action
+1.Create a new list
+2.Append an element to the list
+3.Remove an element from the list
+4.Display the current list
+5.Exit
+Enter your choice(1/2/3/4/5) :2
+Eneter an element to append : 40
+Appended 40 to the list.
+
+Choose an action
+1.Create a new list
+2.Append an element to the list
+3.Remove an element from the list
+4.Display the current list
+5.Exit
+Enter your choice(1/2/3/4/5) :4
+Current List ['10', '20', '30', '40']
+
+Choose an action
+1.Create a new list
+2.Append an element to the list
+3.Remove an element from the list
+4.Display the current list
+5.Exit
+Enter your choice(1/2/3/4/5) :3
+Enter an element to remove :20
+Removed 20 from the list
+
+Choose an action
+1.Create a new list
+2.Append an element to the list
+3.Remove an element from the list
+4.Display the current list
+5.Exit
+Enter your choice(1/2/3/4/5) :4
+Current List ['10', '30', '40']
+
+Choose an action
+1.Create a new list
+2.Append an element to the list
+3.Remove an element from the list
+4.Display the current list
+5.Exit
+Enter your choice(1/2/3/4/5) :5
